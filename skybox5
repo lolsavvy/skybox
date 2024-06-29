@@ -71,6 +71,14 @@ return {
     SkyboxRt = "rbxassetid://18215585193",
     SkyboxUp = "rbxassetid://18215585193",
   },
+  ["Zulcul"] = {
+    SkyboxBk = "rbxassetid://18253411885",
+    SkyboxDn = "rbxassetid://18253411885",
+    SkyboxFt = "rbxassetid://18253411885",
+    SkyboxLf = "rbxassetid://18253411885",
+    SkyboxRt = "rbxassetid://18253411885",
+    SkyboxUp = "rbxassetid://18253411885",
+  },
   ["Nebula"] = {
     SkyboxBk = "rbxassetid://159454299",
     SkyboxDn = "rbxassetid://159454296",
